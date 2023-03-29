@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_user">Add User</string>
+    <string name="last_name">نام خانوادگی:</string>
+    <string name="first_name">نام:</string>
+    <string name="save">ذخیره</string>
+    <string name="delete">delete</string>
+    <string name="edite">edite</string>
+    <string name="add_number">اضافه کردن شماره</string>
+    <string name="message_tester">message tester</string>
+    <string name="name">name</string>
+    <string name="type">ایرانسل / رایتل / همراه اول</string>
+    <string name="number">شماره</string>
+    <string name="call">تماس</string>
+    <string name="search">جست و جو</string>
+    <string name="favorite">علاقه مندی ها</string>
+    <string name="text">نام مخاطب را وارد کنید:</string>
+</resources>
